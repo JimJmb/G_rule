@@ -1,9 +1,9 @@
+opencv-python-headless
 streamlit
 numpy
 torch
 timm
 Pillow==8.0.0
-opencv==4.7.0
 torchvision
 pytorch_lightning
 matplotlib
