@@ -1,7 +1,7 @@
 streamlit
 numpy
 torch
-opencv-python-headless==4.7.0.00
+opencv-contrib-python-headless
 timm
 Pillow==8.0.0
 torchvision
