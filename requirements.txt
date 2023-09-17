@@ -3,7 +3,7 @@ Pillow==8.0.0
 torch
 torchvision
 pytorch_lightning
-opencv-python-headless
+opencv
 timm
 matplotlib
 numpy
